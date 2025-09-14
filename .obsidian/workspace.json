@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LimboSans.md",
+                "file": "Horror sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LimboSans"
+              "title": "Horror sans"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LimboSans.md",
+                "file": "Horror sans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LimboSans"
+              "title": "Outline of Horror sans"
             }
           }
         ],
@@ -166,16 +166,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "9ff5538a14f5ee64",
   "lastOpenFiles": [
-    "LimboSans.md",
     "Negatale Sans.md",
-    "Horror sans.md",
     "Sans.md",
+    "to do.md",
+    "Horror sans.md",
+    "LimboSans.md",
+    "negative sans.md",
     "Welcome.md"
   ]
 }

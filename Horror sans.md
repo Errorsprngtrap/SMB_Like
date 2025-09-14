@@ -1,22 +1,20 @@
 __________________________________________________________________________
 # *** Horror Sans :***
 HP : 200
-Defense : 0.2
+Defense : 0
 Block : No
 Dodge : 1
 
 passive:
 when  you do enougth damage in a short amount of time you will get small mketchup that regen +10 hp
 
-attack cause a form of small bleed
-
 ### ***Attack :***
 1. [ ] Axe Slash : send a slash
 2. [ ] Axe slam : slam the ground with your axe releasing alot of bone from the floor that will fall dozn 
-3. [ ] BoneZone : create a zone of sharp bone
-4. [ ] BoneWave : send an sort of wave of bone 
-5. [ ] Enougth of you : a quick warning appear above sans after that any player  infront of horror will get stun and get crushed by its own bone
-6. [ ] Dash : a dah lol
+3. [x] BoneZone : create a zone of sharp bone
+4. [x] BoneWave : send an sort of wave of bone 
+5. [x] Enougth of you : a quick warning appear above sans after that any player  infront of horror will get stun and get crushed by its own bone does bleed
+6. [x] Dash : a dah lol
 ### ***Upgrades :***
 1. [ ]  Rage :
 __________________________________________________________________________
