@@ -13,11 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "negative sans.md",
+=======
+                "file": "Sans.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "negative sans"
             }
           },
@@ -33,6 +38,9 @@
               },
               "icon": "lucide-file",
               "title": "Fell Sans"
+=======
+              "title": "Sans"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -157,13 +165,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Fell Sans.md",
+=======
+                "file": "Sans.md",
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< Updated upstream
               "title": "Outline of Fell Sans"
+=======
+              "title": "Outline of Sans"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -186,11 +202,15 @@
   },
   "active": "f6bf855441aa7cf1",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Sans.md",
     "negative sans.md",
     "Fell Sans.md",
     "LimboSans.md",
+=======
+>>>>>>> Stashed changes
     "Horror sans.md",
+    "Sans.md",
     "Negatale Sans.md",
     "to do.md",
     "Welcome.md"
