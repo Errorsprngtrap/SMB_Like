@@ -10,9 +10,9 @@ passive:
 ### ***Attack :***
 1. [ ] Giant blaster : (can only be used if you have dodge left ) summon a really big blaster under 9 dodge it become a x or + blaster
 2. [ ] blaster ; a simple blaster 
-3. [ ] bonerush : bonerush 
-4. [ ] bonejump or bonegap can be changed 
-5. [ ] 1 large blue wall or blue wall + mini jump
+3. [x] bonerush : bonerush 
+4. [x] bonejump
+5. [x] 1 large blue wall or blue wall + mini jump
 6. [ ] nap : turn you screen very blury qnd give you barely any vision but you will regen 1 dodge every 25 sec if you still have dodge and if not you will regain 10 hp
 ### ***Upgrades :***
 1. [ ]  Phase 2 :
