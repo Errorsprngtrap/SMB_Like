@@ -24,7 +24,7 @@ Dodge : 8
 ### ***Passive:***
 	when you loose all your dodge you gain a speed boost
 ### ***Attack :***
-1. [ ] Bonerush : more bone and addition of some blue one 
+1. [x] Bonerush : more bone and addition of some blue one 
 2. [ ] blaster : have multiple mode
        1; a quick blaster spam
        2: dual blaster spawn 2 blaster at 0.5 interval 
