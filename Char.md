@@ -6,7 +6,7 @@
 - [x] sans : 1 300 / phase 2 2 000 [[Sans]]
 - [ ] limbo : 1 600 [[LimboSans]]
 - [ ] very weak dust : 2 000 [[Very weak dust sans]]
-- [ ] Fell Sans : 2 800 / phase2 4 000
+- [ ] Fell Sans : 2 800 / phase2 4 000 [[Fell Sans]]
 - [ ] neutral : 3 500 / phase2 dt mode 4 500
 - [ ] Outer : 4 500
 - [ ] Science Sans : 6 000
