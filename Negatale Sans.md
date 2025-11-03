@@ -18,7 +18,7 @@ passive:
        50% bone are in less number
        75% bone are far slower an d theyre is more time between each
 3. [x] Teleport :  teleport where you click (anyone in a certain radius will get blackscreen)
-4. [ ] short blaster : spawn a blaster that barely fire for a second
+4. [x] short blaster : spawn a blaster that barely fire for a second
        50% blaster take more time before firering
 5. [x] blue walls : send 2 long bonewall
        50% only a single wall spawn

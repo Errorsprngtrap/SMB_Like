@@ -1,0 +1,154 @@
+--Rework gain of Currency every 30 sec (50)
+--starter character (15) (snowdin)
+- [x] swap sans : free 
+- [x] nega sans : 300 love / phase 2 12 000 [[Negatale Sans]]
+- [x] horror sans : 700 / 1500 for dying slowly  [[Horror sans]]
+- [x] sans : 1 300 / phase 2 2 000 [[Sans]]
+- [ ] limbo : 1 600 [[LimboSans]]
+- [ ] very weak dust : 2 000 [[Very weak dust sans]]
+- [ ] Fell Sans : 2 800 / phase2 4 000
+- [ ] neutral : 3 500 / phase2 dt mode 4 500
+- [ ] Outer : 4 500
+- [ ] Science Sans : 6 000
+- [ ] king sans : 8 000
+- [ ] ruin snow dust : 10 000 
+- [ ] fresh : 14 000 / phase 2 59 000
+- [ ] Decadent society : 18 000
+- [ ] negative sans : 20 000
+
+--void character (13) (waterfall)
+- [ ] spycopath sans : 25 500
+- [ ] photonegative : 38 000
+- [ ] Hardtale : 45 000
+- [ ] hotland core dust : 55 000 
+- [ ] aftertale sans : 60 000
+- [ ] Glitchtale sans : 75 000 / phase 2 88 000
+- [ ] Delta Sans : 80 000 / phase 2 90 000
+- [ ] cross : 90 000 / phase 2 105 000
+- [ ] Hyperdust : 100 000
+- [ ] killer : 120 666 
+- [ ] epic sans : 160 000
+- [ ] virus / antivirus : 200 000 
+- [ ] abyss : 250 000
+
+--anti void (6) (hotland)
+- [ ] nightmare / dream : 320 000
+- [ ] shattered dream : 380 000
+- [ ] fatal error : 450 000
+- [ ] ink : 500 000
+- [ ] error: 550 000
+- [ ] reaper : 600 000
+
+--Null character (7) (j hall)
+- [ ] alpha : 680 000
+- [ ] anti corrupt : 750 000
+- [ ] corruption :  800 000
+- [ ] king multiverse : 850 000
+- [ ] infected : 900 000
+- [ ] omni : 940 000
+- [ ] error 404 : 970 000
+
+--Reset 1 gain of Currency every 30 sec (75)
+- [ ] swapswap : free
+- [ ] fellswap sans : 400 
+- [ ] swapfell sans : 800
+- [ ] sanes : 2 000
+- [ ] outerswap sans : 5 000
+- [ ] titr : 10 000
+- [ ] ts swap sans : 15 000
+- [ ] Fallen Star : 20 500
+- [ ] extreme fell : 30 000
+- [ ] echo sans : 35 000
+- [ ] flowerfell : 50 000
+- [ ] SpongBobSwap : 80 000
+- [ ] Undertoad Mario : 100 000
+- [ ] insanity : 150 000
+- [ ] Murder : 200 000
+- [ ] Paperjam : 300 000
+- [ ] True Cross : 425 000
+- [ ] BlueScreen : 444 444
+- [ ] True Fatal : 700 000
+- [ ] PowerFull Error : 999 000
+
+--Reset 2 gain of Currency every 30 sec (100)
+- [ ] papyrus : 800
+- [ ] outer papyrus : 1 500
+- [ ] fell papyrus : 3 000
+- [ ] Horrorswap papyrus : 3 500
+- [ ] swap papyrus : 5 000 / phase 2 : 6 000
+- [ ] fellswap papyrus : 8 000 / phase 2 : 9 000
+- [ ] outerswap papyrus : 12 000
+- [ ] bad time duo : 30 000 / phase 2 : 35 000
+- [ ] disbelief : 42 000 / phase 2 : 46 000 / phase 3 : 45 000 / phase 4 : 43 000 
+- [ ] ts papyrus : 50 000 / phase 2 :  55 000
+- [ ] fell duo : 75 000 / phase 2 : 80 000
+- [ ] dustswap papyrus (ut) : 100 000
+- [ ] spycopath papyrus : 110 000
+- [ ] swapfell papyrus : 150 000 / phase 2 : 160 000
+- [ ] fellswap Emerald : 170 000 / phase 2 : 175 000
+- [ ] revenge : 220 000 / phase 2 : 300 000
+- [ ] dustbelief papyrus : 280 000
+- [ ] errorswap papyrus : 550 000
+
+--reset 3 gain of Currency every 30 sec (125)
+- [ ] SSC : 1 000
+- [ ] outershift chara : 3 000
+- [ ] storyfell chara : 5 000
+- [ ] LB : 10 000 / phase 2 : 15 000 / phase 3 : 30 000 
+- [ ] Ocean sans : 20 000
+- [ ] Distrust : 25 000 / phase2 : 30 000 / phase 3 : 35 000 / phase 4 : 38 000
+- [ ] btt : 50 000 / phase 2 : 55 000
+- [ ] fell trio : 80 000
+- [ ] harmode sans (the goat) : 100 000
+- [ ] dust trio : 130 000
+- [ ] henery stickmin : 150 000
+- [ ] toxin : 220 000 / phase 2: 240 000 / phase 3 : 280 000
+- [ ] smx : 250 000 / phase 2 : 255 000 / phase 3 : 260 000 / phase 4 : 300 000 / phase 5 : 320 000  / phase 6 330 000
+- [ ] soultale sans : 440 000 
+- [ ] errorshift chara : 5500 000
+- [ ] error time trio : 800 000
+
+--reset 4 gain of Currency every 30 sec (150)
+- [ ] SwapSwapDust!Sans : 2 500
+- [ ] Dust!SANES : 3 500
+- [ ] OuterFell!Sans : 12 000
+- [ ] DustFell!Sans : 26 000
+- [ ] OuterDust!Sans : 35 000
+- [ ] NegaDust!Sans : 50 000
+- [ ] DustHorror!Sans : 70 000
+- [ ] AfterDust!Sans : 110 000
+- [ ] Dusttrust Sans : 250 000 / phase 2 : 300 000 / phase 3 : 325 000 / phase 4 : 999 999
+- [ ] KillerDust!Sans : 324 666
+- [ ] EpicDust!Sans : 450 000
+- [ ] SMX last run : 600 000 / phase 2 :  650 000 / phase 3 : 725 000
+- [ ] Underverse Ink : 625 000
+- [ ] DustInk!Sans  : 640 000
+- [ ] ReaperDust!Sans : 865 666
+- [ ] DustError!Sans : 890 000
+- [ ] ErrorDust!Sans : 950 000
+
+
+--True Reset Characters
+- [ ] Powerful Cross Sans : 
+- [ ] True BlueScreen Sans : 
+- [ ] Powerful Fatal Error : 
+- [ ] Final Virus 404 : 
+- [ ] Final Error Sans : 
+- [ ] True Omnipotent Sans : 
+- [ ] Fatal Corruption : 
+
+--gamepass idea 
+- [ ] red
+
+ --badge
+- [ ] jojo sans
+- [ ] time paradox
+- [ ] rejuvenation 
+- [ ] call of the void
+- [ ] sudden change
+- [ ] asgore
+- [ ] napstablook
+- [ ] undyne
+- [ ] roaring knight 
+- [ ] jevil 
+

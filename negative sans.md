@@ -41,4 +41,4 @@ Passive :
 5. [ ] Blastering:
        Create 2 blaster around you that follow your mouse at a pretty decent speed
 6. [ ] BoneRise :
-       a single boneruse from the ground thn jut continue is life by moving foward and stop a it before the next wall
+       a single bonerise from the ground thn jut continue is life by moving foward and stop a it before the next wall
