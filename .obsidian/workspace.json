@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neutral run.md",
+                "file": "Character Set/Negatale Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neutral run"
+              "title": "Negatale Sans"
             }
           }
         ]
@@ -171,17 +171,19 @@
   },
   "active": "a1a5f5d424b9a92e",
   "lastOpenFiles": [
-    "to do.md",
-    "Neutral run.md",
-    "negative sans.md",
-    "Very weak dust sans.md",
-    "Sans.md",
-    "Char.md",
-    "Pasted image 20251103022848.png",
-    "Fell Sans.md",
-    "Horror sans.md",
-    "LimboSans.md",
     "log update.md",
-    "Negatale Sans.md"
+    "to do.md",
+    "Character Set/Negatale Sans.md",
+    "Char.md",
+    "Character Set/Swap Sans.md",
+    "Character Set/Very weak dust sans.md",
+    "Character Set",
+    "Character Set/Sans.md",
+    "Character Set/Neutral run.md",
+    "Character Set/negative sans.md",
+    "Pasted image 20251103022848.png",
+    "Character Set/Fell Sans.md",
+    "Character Set/Horror sans.md",
+    "Character Set/LimboSans.md"
   ]
 }

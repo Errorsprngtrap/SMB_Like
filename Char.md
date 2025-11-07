@@ -1,20 +1,20 @@
 --Rework gain of Currency every 30 sec (50)
 --starter character (15) (snowdin)
-- [x] swap sans : free 
-- [x] nega sans : 300 love / phase 2 12 000 [[Negatale Sans]]
-- [x] horror sans : 700 / 1500 for dying slowly  [[Horror sans]]
-- [x] sans : 1 300 / phase 2 2 000 [[Sans]]
+- [ ] swap sans : free [[Swap Sans]]
+- [ ] nega sans : 300 love  / phase2 12 000  [[Negatale Sans]]
+- [ ] horror sans : 700 / 1 500  for dying slowly  [[Horror sans]]
+- [ ] sans : 1 300 / phase 2 2 000 [[Sans]]
 - [ ] limbo : 1 600 [[LimboSans]]
 - [ ] very weak dust : 2 000 [[Very weak dust sans]]
-- [ ] Fell Sans : 2 800 / phase2 4 000 [[Fell Sans]]
-- [ ] neutral : 3 500 / phase2 dt mode 4 500
-- [ ] Outer : 4 500
-- [ ] Science Sans : 6 000
-- [ ] king sans : 8 000
-- [ ] ruin snow dust : 10 000 
-- [ ] fresh : 14 000 / phase 2 59 000
-- [ ] Decadent society : 18 000
-- [ ] negative sans : 20 000
+- [ ] Fell Sans : 2 800 / phase2 4000[[Fell Sans]]
+- [ ] neutral : 3 500 / phase2 dt mode 4500
+- [ ] Outer : 4500
+- [ ] Science Sans : 6000
+- [ ] king sans : 8000
+- [ ] ruin snow dust : 10000 
+- [ ] fresh : 14000 / phase 2 59000
+- [ ] Decadent society : 18000
+- [ ] negative sans : 20000
 
 --void character (13) (waterfall)
 - [ ] spycopath sans : 25 500
@@ -152,3 +152,21 @@
 - [ ] roaring knight 
 - [ ] jevil 
 
+--To add
+- [ ] CrossBone
+- [ ] UnderWorld Sans
+- [ ] DanceTale Sans
+- [ ] DanceTale Papyrus
+- [ ] Altertale Sans 
+- [ ] Altertale Toriel
+- [ ] HellTale Sans
+- [ ] Sixbone
+- [ ] possesion sans
+- [ ] Ainavol Sans
+- [ ] Duo Squabble
+- [ ] SwapDust Papyrus
+- [ ] RevertDust Sans
+- [ ] GZ Sans
+- [ ] KillerSwap papyrus
+- [ ] Underswap broken promise sans
+- [ ] venom sans

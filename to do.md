@@ -1,12 +1,8 @@
 
 - [ ] new way to handle anim
-- [x] fix button gui of attack not working
-- [x] changed the keybing for pc player on attack selection
 - [ ] music selection for character
 - [ ] volume controller 
 - [ ] make blaster theyre own vfx category
 - [ ] make phase a way to disable phase
-- [ ] bone module
-- [ ] blaster module
-- [x] fix dodge going negative
-- [x] changed the way attack with different mode can be used
+- [ ] add a dusting anim
+- [ ] add a defense folder in the workspace to put attact that are here to deflect projectile/ stop projectile
