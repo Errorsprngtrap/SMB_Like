@@ -170,3 +170,4 @@
 - [ ] KillerSwap papyrus
 - [ ] Underswap broken promise sans
 - [ ] venom sans
+- [ ] wiki sans

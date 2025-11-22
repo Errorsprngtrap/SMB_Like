@@ -9,31 +9,41 @@ passive:
 	 Negative mind : the more you gain it (mostly as you loose hp) will change the way some attack work
 
 ### ***Attack :***
-1. [ ] Sad Blaster :
-       1: a blaster that have a beam that slow player and reduce theyre jump and defense
-       2 : the blaster will containt its beam as an energy ball before exploding
-2. [ ] Blaster Decision:
-       this ability let you pre place up to 5 blaster as soon as you press for a long time the ability all the blaster spawn and fire
-3. [ ] BlueWall :
-       send 3 bluewall 
-4. [ ] Boneburst :
-       create a zone where alot of blue bone and normal bone will rise 
-5. [ ] SpinBone
-       you first click to select where the bone spawn then a second time to select where the bone will go 
-6. [ ] Sadness Rain : 
-       Create a zone of rain that slow down player
+1. [x] Sad Blaster :
+       1: a blaster that have a beam that slow player and reduce there jump and defense (can be hold up to 2 second for slightly larger blaster and better effect) (higher sadness his the more the effect are powerful but the blaster beam last for a shorter time)
+       2 : the blaster will contain its beam as an energy ball before exploding (can be hold up to 4 sec for a bigger blaster and explosion)
+2. [x] Blaster Decision:
+       this ability let you pre place up to 5 blaster as soon as you press for a long time the ability all the blaster spawn and fire (sadness make them short for less long and make them wait a bit before firering)
+3. [x] Blue Wall :
+       send 3 Blue Wall 
+4. [x] Bone burst :
+       create a zone where a lot of blue bone and normal bone will rise (Sadness reduce the zone the bone spawn in but the amount of bone doesn't change that much)
+5. [ ] Spin Bone
+       you first click to select where the bone spawn then a second time to select where the bone will go (spin less fast)
+6. [x] Sadness Rain : 
+       Create a zone of rain that slow down player (the more sadness the bigger the zone get)
 ### ***Upgrades :***
 1. [ ]  Negative :
 __________________________________________________________________________
 # ***Negatale Sans (negative mode) :***
 HP : 600
-Defense : .2
+Defense : 0
 Block : 6
+
+passive : 
+	Anger: act like sadness but in a more positive way
+	Negative Energy : every times your attack hit you regen 2 hp 
 ### ***Attack :***
-1. [ ] a rush of bone thats accelerate will comeback to the player (the bone will comeback or when it reach then of its movement or when its too close to an obstacle) 
-2. [ ] blaster : a blaster that shoot from its eye 3 beam
-3. [ ] wafing spin : send a spin bone the move in a wave like way
-4. [ ] Negative energy :
-       turn your screen negative and  for each hit that you do you regen 1 hp
-5. [ ] thunder rain :
-       create a zone with acid rain taht do small damage and from time to time release a ligthning that stun player and do pretty decent damage
+1. [ ] bonerush :
+       send a rush of bone that is very aggressive, the bone will if they touch someone target them back after a few sec if its not the case and that they get too close to a wall or any obstacle they will just stop and comeback (anger only increase the bone speed)
+2. [ ] Solid Wall
+       Create a pretty large bone wall that will move forward and will block up coming attack like blaster beam or bone (it doesn't block every attack)
+3. [ ] Thunder Rain :
+       Spawn a cloud above where you click it release rain that slow player , there is also from time to time lightning that fall and do heavy damage and stun player for a bit (as anger increase the attack size increase the amount of rain is reduced but the amount of lightning increase)
+4. [ ] Rage Zone:
+       a waning appear on the floor before bone fall brutally to the ground (increase the size of the zone as anger goes on )
+5. [ ] TP : 
+       a basic tp
+6. [ ] Blaster :
+       mode 1 : fire 2 blaster that fire beam  in 3 direction
+       mode 2 : fire 2 blaster with a concentrate beam (can be hold to spawn more blaster up to a max of 10 blaster )
