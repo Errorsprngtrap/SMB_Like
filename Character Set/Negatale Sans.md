@@ -18,7 +18,7 @@ passive:
        send 3 Blue Wall 
 4. [x] Bone burst :
        create a zone where a lot of blue bone and normal bone will rise (Sadness reduce the zone the bone spawn in but the amount of bone doesn't change that much)
-5. [ ] Spin Bone
+5. [x] Spin Bone
        you first click to select where the bone spawn then a second time to select where the bone will go (spin less fast)
 6. [x] Sadness Rain : 
        Create a zone of rain that slow down player (the more sadness the bigger the zone get)
@@ -26,24 +26,23 @@ passive:
 1. [ ]  Negative :
 __________________________________________________________________________
 # ***Negatale Sans (negative mode) :***
-HP : 600
-Defense : 0
+HP : 400
+Defense : 0.15
 Block : 6
 
 passive : 
 	Anger: act like sadness but in a more positive way
 	Negative Energy : every times your attack hit you regen 2 hp 
 ### ***Attack :***
-1. [ ] bonerush :
-       send a rush of bone that is very aggressive, the bone will if they touch someone target them back after a few sec if its not the case and that they get too close to a wall or any obstacle they will just stop and comeback (anger only increase the bone speed)
-2. [ ] Solid Wall
+1. [x] bonerush :
+       send a rush of bone that is very aggressive, the bone will if they touch someone target them back after a few sec if its not the case and that they get too close to a wall or any obstacle they will just stop and comeback (anger only increase the bone speed) (if they do target someone theyre speed just increase speed by alot)
+2. [x] Solid Wall
        Create a pretty large bone wall that will move forward and will block up coming attack like blaster beam or bone (it doesn't block every attack)
-3. [ ] Thunder Rain :
-       Spawn a cloud above where you click it release rain that slow player , there is also from time to time lightning that fall and do heavy damage and stun player for a bit (as anger increase the attack size increase the amount of rain is reduced but the amount of lightning increase)
-4. [ ] Rage Zone:
+3. [x] Cloud Rain: Like P1
+4. [x] Rage Zone:
        a waning appear on the floor before bone fall brutally to the ground (increase the size of the zone as anger goes on )
-5. [ ] TP : 
+5. [x] TP : 
        a basic tp
-6. [ ] Blaster :
+6. [x] Blaster :
        mode 1 : fire 2 blaster that fire beam  in 3 direction
        mode 2 : fire 2 blaster with a concentrate beam (can be hold to spawn more blaster up to a max of 10 blaster )

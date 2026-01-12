@@ -1,11 +1,15 @@
 --Rework gain of Currency every 30 sec (50)
 --starter character (15) (snowdin)
-- [ ] swap sans : free [[Swap Sans]]
+- [x] swap sans : free [[Swap Sans]]
 - [ ] nega sans : 300 love  / phase2 12 000  [[Negatale Sans]]
+- [ ] Pacifist Fell : ????
+- [ ] Pacifist Sans : ??????
 - [ ] horror sans : 700 / 1 500  for dying slowly  [[Horror sans]]
 - [ ] sans : 1 300 / phase 2 2 000 [[Sans]]
 - [ ] limbo : 1 600 [[LimboSans]]
 - [ ] very weak dust : 2 000 [[Very weak dust sans]]
+- [ ] Mafiatale sans : 
+- [ ] Inverted Fate Sans :
 - [ ] Fell Sans : 2 800 / phase2 4000[[Fell Sans]]
 - [ ] neutral : 3 500 / phase2 dt mode 4500
 - [ ] Outer : 4500
@@ -18,9 +22,11 @@
 
 --void character (13) (waterfall)
 - [ ] spycopath sans : 25 500
+- [ ] venom sans :
 - [ ] photonegative : 38 000
 - [ ] Hardtale : 45 000
 - [ ] hotland core dust : 55 000 
+- [ ] Altertale toriel :
 - [ ] aftertale sans : 60 000
 - [ ] Glitchtale sans : 75 000 / phase 2 88 000
 - [ ] Delta Sans : 80 000 / phase 2 90 000
@@ -49,59 +55,76 @@
 - [ ] error 404 : 970 000
 
 --Reset 1 gain of Currency every 30 sec (75)
-- [ ] swapswap : free
+- [ ] Little Sans : free
+- [ ] swapswap : ....
 - [ ] fellswap sans : 400 
 - [ ] swapfell sans : 800
 - [ ] sanes : 2 000
 - [ ] outerswap sans : 5 000
+- [ ] DanceTale Sans
 - [ ] titr : 10 000
-- [ ] ts swap sans : 15 000
+- [ ] crossbone: 15 000
 - [ ] Fallen Star : 20 500
 - [ ] extreme fell : 30 000
 - [ ] echo sans : 35 000
 - [ ] flowerfell : 50 000
 - [ ] SpongBobSwap : 80 000
 - [ ] Undertoad Mario : 100 000
+- [ ] Helltale sans :
 - [ ] insanity : 150 000
+- [ ]  GZ Sans :
 - [ ] Murder : 200 000
 - [ ] Paperjam : 300 000
+- [ ] Underworld Sans :
 - [ ] True Cross : 425 000
 - [ ] BlueScreen : 444 444
 - [ ] True Fatal : 700 000
 - [ ] PowerFull Error : 999 000
 
 --Reset 2 gain of Currency every 30 sec (100)
+- [ ] LittleSwap papyrus : Free
+- [ ] Pacifist swap paps : ??????
 - [ ] papyrus : 800
 - [ ] outer papyrus : 1 500
+- [ ] Dancetale Papyrus 
 - [ ] fell papyrus : 3 000
 - [ ] Horrorswap papyrus : 3 500
+- [ ] Duo Squabble
+- [ ] Inverted Fate Papyrus
 - [ ] swap papyrus : 5 000 / phase 2 : 6 000
 - [ ] fellswap papyrus : 8 000 / phase 2 : 9 000
 - [ ] outerswap papyrus : 12 000
 - [ ] bad time duo : 30 000 / phase 2 : 35 000
+- [ ] afterswap : 
 - [ ] disbelief : 42 000 / phase 2 : 46 000 / phase 3 : 45 000 / phase 4 : 43 000 
 - [ ] ts papyrus : 50 000 / phase 2 :  55 000
 - [ ] fell duo : 75 000 / phase 2 : 80 000
 - [ ] dustswap papyrus (ut) : 100 000
 - [ ] spycopath papyrus : 110 000
 - [ ] swapfell papyrus : 150 000 / phase 2 : 160 000
+- [ ] Fellswap Gold Papyrus :
 - [ ] fellswap Emerald : 170 000 / phase 2 : 175 000
+- [ ] KillerSwap papyrus (molotov mode) : 
 - [ ] revenge : 220 000 / phase 2 : 300 000
 - [ ] dustbelief papyrus : 280 000
 - [ ] errorswap papyrus : 550 000
 
 --reset 3 gain of Currency every 30 sec (125)
+- [ ] Altertale Sans  :
 - [ ] SSC : 1 000
 - [ ] outershift chara : 3 000
 - [ ] storyfell chara : 5 000
+- [ ] Gameboy snas : 
 - [ ] LB : 10 000 / phase 2 : 15 000 / phase 3 : 30 000 
 - [ ] Ocean sans : 20 000
 - [ ] Distrust : 25 000 / phase2 : 30 000 / phase 3 : 35 000 / phase 4 : 38 000
 - [ ] btt : 50 000 / phase 2 : 55 000
 - [ ] fell trio : 80 000
+- [ ] wiki sans : 
 - [ ] harmode sans (the goat) : 100 000
 - [ ] dust trio : 130 000
-- [ ] henery stickmin : 150 000
+- [ ] X Gaster : 150 000
+- [ ] henery stickmin : 180 000
 - [ ] toxin : 220 000 / phase 2: 240 000 / phase 3 : 280 000
 - [ ] smx : 250 000 / phase 2 : 255 000 / phase 3 : 260 000 / phase 4 : 300 000 / phase 5 : 320 000  / phase 6 330 000
 - [ ] soultale sans : 440 000 
@@ -109,13 +132,17 @@
 - [ ] error time trio : 800 000
 
 --reset 4 gain of Currency every 30 sec (150)
+- [ ] Axetale
 - [ ] SwapSwapDust!Sans : 2 500
 - [ ] Dust!SANES : 3 500
+- [ ] RevertDust Sans : 
 - [ ] OuterFell!Sans : 12 000
+- [ ] SwapDust Papyrus (make him close to dustfell too):
 - [ ] DustFell!Sans : 26 000
 - [ ] OuterDust!Sans : 35 000
 - [ ] NegaDust!Sans : 50 000
 - [ ] DustHorror!Sans : 70 000
+- [ ] DustDust Sans : 
 - [ ] AfterDust!Sans : 110 000
 - [ ] Dusttrust Sans : 250 000 / phase 2 : 300 000 / phase 3 : 325 000 / phase 4 : 999 999
 - [ ] KillerDust!Sans : 324 666
@@ -136,9 +163,11 @@
 - [ ] Final Error Sans : 
 - [ ] True Omnipotent Sans : 
 - [ ] Fatal Corruption : 
+- [ ] Littletale god
 
 --gamepass idea 
 - [ ] red
+- [ ] abobination gamepass : sixbone + possesion
 
  --badge
 - [ ] jojo sans
@@ -151,23 +180,17 @@
 - [ ] undyne
 - [ ] roaring knight 
 - [ ] jevil 
+- [ ] Flowey
+- [ ] Toriel
 
---To add
-- [ ] CrossBone
-- [ ] UnderWorld Sans
-- [ ] DanceTale Sans
-- [ ] DanceTale Papyrus
-- [ ] Altertale Sans 
-- [ ] Altertale Toriel
-- [ ] HellTale Sans
-- [ ] Sixbone
-- [ ] possesion sans
-- [ ] Ainavol Sans
-- [ ] Duo Squabble
-- [ ] SwapDust Papyrus
-- [ ] RevertDust Sans
-- [ ] GZ Sans
-- [ ] KillerSwap papyrus
-- [ ] Underswap broken promise sans
-- [ ] venom sans
-- [ ] wiki sans
+--To add (to replace some of the dust bs)
+Undertone (could be cool to make him with note based attack ect)
+smash sans (with a smash like set )
+Color sans
+IceBound snas
+Undershuffle
+gt gaster 
+gt papyrus
+sanston (0 idea what to do with him )
+vhs sans (0 idea what to do with him )
+space sans https://youtu.be/sgYJKa6bqmI?si=nu8d73xVHzUecFxC

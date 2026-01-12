@@ -1,3 +1,6 @@
+Possible concept : 
+Multiple blaster firering at a singleplace can create explosion
+
 __________________________________________________________________________
 # ***Sans :***
 HP : 100
@@ -8,12 +11,13 @@ Dodge : 6
 passive:
 
 ### ***Attack :***
-1. [x] Giant blaster : (can only be used if you have dodge left ) summon a really big blaster under 1 dodge it become a x or + blaster
-2. [x] blaster ; a simple blaster 
-3. [x] bonerush : bonerush 
-4. [x] bonejump
-5. [x] 1 large blue wall or blue wall + mini jump
-6. [x] nap : turn you screen very blury qnd give you barely any vision but you will regen 1 dodge every 25 sec if you still have dodge and if not you will regain 10 hp
+1. [ ] Bonerush : 
+       1: send a rush of bone
+       2: send a rush of bone from you to where you click that come from the sky (can be charged)
+2. [ ] Blaster : can be holded for bigger size 
+3. [ ] 4 blast : spawn 4 blaster in a x or + shape 
+4. [ ] BoneWall : create a single wall that protect from other attack 
+5. [ ] Bonejump : send a white then blue bone 
 ### ***Upgrades :***
 1. [ ]  Phase 2 :
 __________________________________________________________________________
@@ -23,19 +27,11 @@ Defense : 0
 Dodge : 8
 ### ***Passive:***
 	when you loose all your dodge you gain a speed boost
+	when you loose all your dodge you go into bad time mode
 ### ***Attack :***
-1. [x] Bonerush : more bone and addition of some blue one 
-2. [x] blaster : have multiple mode
-       1; a quick blaster spam
-       2: dual blaster spawn 2 blaster at 0.5 interval 
-3. [x] medium blaster have multiple mode:
-       1: a normal medium blaster
-       2: x or + blaster 
-4. [ ] teleport :  if you hqve no dodge left it will also spawn blaster near anyone in a radius around you before you teleported
-5. [x] bonezone 
-6. [x] jump :multiple mode
-       asend multiple smalljump then a white wall 
-       combo of bonejump amd blue wall 
-       blue wall
-7. [x] last get the job done :one time use 
-       sans create a warning above is head after the wrning sans will put in a box attack all the player infront of him and use is final attack
+1. [ ] Bonerush :
+       classic : send a bonerush with some blue bone
+       bad time mode : same but bone re faster and damage are increased
+2. [ ] Final : 
+       classic : Spawn 4 big gaster blaster in the sky that fire where you click creating an explosion
+       bt : a blaster circle

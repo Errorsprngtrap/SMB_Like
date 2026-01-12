@@ -6,21 +6,22 @@ Block : No
 Dodge : 1
 
 passive:
-when  you do enough damage in a short amount of time you will get small ketchup that regen +10 hp
+	ketchup load : after getting x  ketchup point you get a ketchup bottle (for each bottle you get the more point you need)
 
 ### ***Attack :***
-1. [ ] Axe :
-       1 : Axe simple axe (can be charged to reach up to 50 damage)
+1. [x] Axe :
+       1 : Axe simple axe (can be charged to reach up to 15 damage)
        2 : Slash (can be charged to go faster and do more damage)
-2. [ ] Axe Slam :
-       slam the ground with your axe and release bone (if you charge it bone will fly then fall down and they stay for a bit and do damage )
-3. [ ] Bonezone :
+2. [x] Axe Slam :
+       slam the ground with your axe and release bone 
+3. [x] Bonezone :
        really nothing special
-4. [ ] Bonewave:
+4. [x] Bonewave:
        create a long but not very large bonewave (can be hold to charge the length)
-5. [ ] Dash : 
-       mode 1 : dash ( can be charged for more distance)
-       mode 2 : small dash that create a warning (can be charged mostly for small damage buff) after the wrning you dash foward and if somone is infront of ya during the dash you blue soul them and crush theyre bone with magic 
+5. [x] Dash : 
+       Just a dash
+6. [x] 8 bone where you click it spawn 4 bone in a  x shapes then 4 other in a + shape
+7. [x] beartrap : can be placed and will stay for a wide 20 minutes if nobody walk in (will damage and stun people that walk in ,User included)
 ### ***Upgrades :***
 1. [ ]  Rage :
 __________________________________________________________________________
@@ -33,15 +34,14 @@ you loose 1hp per .5sec and have higher speed
 
 attack cause a form of small bleed
 ### ***Attack :***
-1. [ ] Axe :
+1. [x] Axe :
        1: classic axe cannot be charged 
        2 : small slash (they are pretty spammable)
-       3: big slash (can be charged )
-2. [ ] BoneZone
+2. [x] BoneZone
        classic zone
-3. [ ] BoneWave:
+3. [x] BoneWave:
        work like before but its larger (can be charged too)
-4. [ ] Falling Bone:
-       a bone spawn around where you clcik and fall (can be used 15 time in a row before goign on cd)
-5. [ ] Quick Dash :
-       Let you charge a dash that act more liek a tp after 0.25 sec after you release teh dash you will tp to x point and create a damage zone  on the distance you dashed
+4. [x] Falling Bone:
+       a bone spawn around where you click and fall (can be used 15 time in a row before goign on cd)
+5. [x] Quick Dash :
+       Let you charge a dash that act more liek a tp after 0.25 sec after you release teh dash you will tp to x point 

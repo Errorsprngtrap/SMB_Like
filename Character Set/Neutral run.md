@@ -18,5 +18,15 @@ passive:
 5. [ ] umbrella :
        1 : spin n yourself and release alot of raindrop that will create small puddle
        2 swig 3 time your umbrella releasing dropplet the same color as your umbrella
+6. [ ] 
 ### ***Upgrades :***
 1. [ ]  Phase 2 :
+__________________________________________________________________________
+# ***Neutral Sans P2 :***
+HP : None
+Defense : None
+
+passive : 
+	Melting : you dont take any actual damage but as time goes on you melt more and more reducing your attack speed effectiveness ect , getting by other attack will speed up the melting process
+### ***Attack :***
+1. [ ] 
