@@ -1,5 +1,3 @@
-Possible concept : 
-Multiple blaster firering at a singleplace can create explosion
 
 __________________________________________________________________________
 # ***Sans :***
