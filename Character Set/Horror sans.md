@@ -23,7 +23,7 @@ passive:
 6. [x] 8 bone where you click it spawn 4 bone in a  x shapes then 4 other in a + shape
 7. [x] beartrap : can be placed and will stay for a wide 20 minutes if nobody walk in (will damage and stun people that walk in ,User included)
 ### ***Upgrades :***
-1. [ ]  Rage :
+1. [x]  Rage :
 __________________________________________________________________________
 # *** Horror Sans Rage***
 HP : 200

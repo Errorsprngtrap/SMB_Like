@@ -2,7 +2,7 @@
 --starter character (15) (snowdin)
 - [x] swap sans : free [[Swap Sans]]
 - [ ] nega sans : 300 love  / phase2 12 000  [[Negatale Sans]]
-- [ ] Pacifist Sans : 700
+- [ ] Pacifist Sans : 700 [[Pacifist Sans]]
 - [ ] Pacifist Fell : 1 000
 - [ ] horror sans : 1 500 / 1 500  for dying slowly  [[Horror sans]]
 - [ ] sans : 2 000 / phase 2: 2 000 [[Sans]]

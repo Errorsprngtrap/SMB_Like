@@ -17,5 +17,5 @@ passive:
 6. [ ] spider swarm :
        an army of spider raise from around limbo and run around him for a while doing small but quick damage toi anyoen near
 7. [ ] Thalassophobia:
-       drop (it keep a partof your idea): sans slam the ground with is foot making 5 drop of dark water fall somewhere infront of him if touched will get heavly slowed until they get out ( the puddle dont dissapear until everyrone except the owner is out of it)
+        (it keep a partof your idea): sans slam the ground with is foot making 5 drop of dark water fall somewhere infront of him if touched will get heavly slowed until they get out ( the puddle dont dissapear until everyrone except the owner is out of it)
 

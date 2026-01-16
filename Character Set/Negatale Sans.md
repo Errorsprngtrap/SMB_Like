@@ -23,7 +23,7 @@ passive:
 6. [x] Sadness Rain : 
        Create a zone of rain that slow down player (the more sadness the bigger the zone get)
 ### ***Upgrades :***
-1. [ ]  Negative :
+1. [x]  Negative :
 __________________________________________________________________________
 # ***Negatale Sans (negative mode) :***
 HP : 400
