@@ -1,7 +1,7 @@
 --Rework gain of Currency every 30 sec (50)
 --starter character (15) (snowdin)
 - [x] swap sans : free [[Swap Sans]]
-- [x] nega sans : 300 love  / phase2 12 000  [[Negatale Sans]]
+- [ ] nega sans : 300 love  / phase2 12 000  [[Negatale Sans]]
 - [ ] Pacifist Sans : 700 [[Pacifist Sans]]
 - [ ] Pacifist Fell : 1 000
 - [x] horror sans : 1 500 / 1 500  for dying slowly  [[Horror sans]]
