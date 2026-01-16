@@ -10,7 +10,7 @@
 - [ ] very weak dust : 2 000 [[Very weak dust sans]]
 - [ ] Mafiatale sans : 
 - [ ] Inverted Fate Sans :
-- [ ] Fell Sans : 2 800 / phase2 4000[[Fell Sans]]
+- [ ] Fell Sans : 2 800 / phase2 4000[[OLD Fell Sans]]
 - [ ] neutral : 3 500 / phase2 dt mode 4500
 - [ ] Outer : 4500
 - [ ] Science Sans : 6000

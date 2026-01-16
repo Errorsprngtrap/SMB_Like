@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e29eb31f5cff172",
+        "id": "99e517326da7e3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "6b194d31f2a0c26a",
+            "id": "2c36189c86cb6373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Set/Sans.md",
+                "file": "Character Set/Fell Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans"
-            }
-          },
-          {
-            "id": "11a88cf1e9476777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Set/Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans"
+              "title": "Fell Sans"
             }
           }
         ]
@@ -185,23 +171,24 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "6b194d31f2a0c26a",
+  "active": "2c36189c86cb6373",
   "lastOpenFiles": [
+    "Character Set/OLD Fell Sans.md",
+    "Character Set/Fell Sans.md",
     "Char V2 Test.md",
+    "Character Set/Very weak dust sans.md",
+    "Character Set/LimboSans.md",
     "Character Set/Sans.md",
+    "Character Set/Sans OLD.md",
     "Character Set/Pacifist Fell Sans.md",
     "Character Set/Pacifist Sans.md",
     "Character Set/Neutral run.md",
-    "Character Set/LimboSans.md",
     "Character Set/Negatale Sans.md",
-    "Character Set/Fell Sans.md",
     "log update.md",
     "Char.md",
     "to do.md",
-    "Character Set/Very weak dust sans.md",
     "Character Set/Horror sans.md",
     "Character Set/negative sans.md",
-    "Character Set/Sans OLD.md",
     "SMBLike.html",
     "Character Set/Swap Sans.md",
     "Untitled.canvas",
