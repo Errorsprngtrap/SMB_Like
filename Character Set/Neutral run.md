@@ -37,4 +37,8 @@ passive :
 2. [ ] Blaster :
        mode 1 : Can be hald for bigger blaster , act liek a normal blaster but as your melting increase the aim of the blaster will becoem worst and in some case the blaster might just explode releasing puddle everywhere 
        mode 2 : spawn up to 10 blaster that all can have issues to aim properly 
-3. [ ] 
+3. [ ] BoneZone
+4. [ ] Circle Blue :
+       you get stunned for 0.25 sec before blue bone rise around you and mover away from ya (can be held for more Bone)
+5. [ ] Rain Bone :
+       Bone fall from the sky around where your mouse is if the melting is high enought boen wilt melt on the floor creating puddle thats slow done people in it (can be held for more Bone)
