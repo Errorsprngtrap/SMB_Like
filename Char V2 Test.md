@@ -12,7 +12,7 @@
 - [ ] Inverted Fate Sans : 8 500
 - [ ] Fell Sans : 10 000 / phase2 4000 [[Fell Sans]]
 - [ ] neutral : 12 500 / phase2 dt mode 4500 [[Neutral run]]
-- [ ] Outer : 15 000
+- [ ] Outer : 15 000 [[Outer Sans]]
 - [ ] Science Sans : 16 500
 - [ ] king sans : 18 000
 - [ ] ruin snow dust : 20 000 

@@ -1,5 +1,5 @@
 # ***UF Sans :***
-HP : 125
+HP : 150
 Defense : 0
 Block : No
 Dodge : 5
