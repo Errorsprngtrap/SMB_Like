@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Set/Pacifist Sans.md",
+                "file": "Character Set/Very weak dust sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pacifist Sans"
+              "title": "Very weak dust sans"
             }
           }
         ],
@@ -188,9 +188,10 @@
   },
   "active": "adade4fa3b0a37f4",
   "lastOpenFiles": [
+    "Character Set/Outer Sans.md",
+    "Character Set/Pacifist Sans.md",
     "Character Set/InvertedFate Sans.md",
     "Character Set/negative sans.md",
-    "Character Set/Outer Sans.md",
     "Char V2 Test.md",
     "Character Set/Neutral run.md",
     "Character Set/Fell Sans.md",
@@ -198,7 +199,6 @@
     "Character Set/Sans.md",
     "Character Set/Horror sans.md",
     "Character Set/Pacifist Fell Sans.md",
-    "Character Set/Pacifist Sans.md",
     "Char.md",
     "Character Set/OLD Fell Sans.md",
     "Character Set/Very weak dust sans.md",
