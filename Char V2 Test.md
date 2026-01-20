@@ -18,7 +18,7 @@
 - [ ] ruin snow dust : 20 000 
 - [ ] fresh : 22 000 / phase 2 59 000
 - [ ] Decadent society : 24 500
-- [ ] negative sans : 26 000
+- [ ] negative sans : 26 000 [[negative sans]]
 
 --void character (13) (waterfall)
 - [ ] spycopath sans : 28 500
