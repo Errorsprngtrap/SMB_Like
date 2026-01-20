@@ -182,8 +182,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export as HTML": false
+      "publish:Publish changes...": false
     }
   },
   "active": "adade4fa3b0a37f4",
