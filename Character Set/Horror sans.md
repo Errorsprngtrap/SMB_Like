@@ -44,4 +44,4 @@ attack cause a form of small bleed
 4. [x] Falling Bone:
        a bone spawn around where you click and fall (can be used 15 time in a row before goign on cd)
 5. [x] Quick Dash :
-       Let you charge a dash that act more liek a tp after 0.25 sec after you release teh dash you will tp to x point 
+     a tp 

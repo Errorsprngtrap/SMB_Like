@@ -31,7 +31,7 @@
 - [ ] Glitchtale sans : 75 000 / phase 2 88 000
 - [ ] Delta Sans : 80 000 / phase 2 90 000
 - [ ] cross : 90 000 / phase 2 105 000
-- [ ] Hyperdust : 100 000
+- [ ] Helltale Sans : 100 000
 - [ ] killer : 120 666 
 - [ ] epic sans : 160 000
 - [ ] virus / antivirus : 200 000 
@@ -54,17 +54,36 @@
 - [ ] omni : 940 000
 - [ ] error 404 : 970 000
 
---Reset 1 gain of Currency every 30 sec (75)
-- [ ] 
+--Reset 1 gain of Currency every 30 sec (75) (more sanses)
+- [ ] Little Sans : free
+- [ ] Flowerfell :
+- [ ] outerswap sans : 
+- [ ] SwapSwap :
+- [ ] OuterFell :
+- [ ] sanes : 
+- [ ] DanceTale Sans
+- [ ] echo sans : 
 
---Reset 2 gain of Currency every 30 sec (100)
-- [ ] 
+--Reset 2 gain of Currency every 30 sec (100) (paps and duo)
+- [ ] LittleSwap papyrus : 
+- [ ] Papyrus :
+- [ ] Pacifist swap paps :
+- [ ] Dancetale Papyrus :
+- [ ] Horrorswap papyrus : 
+- [ ] outer papyrus : 
+- [ ] fell papyrus : 
 
---reset 3 gain of Currency every 30 sec (125)
-- [ ] 
+--reset 3 gain of Currency every 30 sec (125) (chara and trio = some other shit)
+- [ ] titr : 
+- [ ] smash sans (with a smash like set )
+- [ ] Altertale Sans  :
+- [ ] Undertone (could be cool to make him with note based attack ect)
+- [ ] Undershuffle
+- [ ] SSC : 
+- [ ] IceBound snas
 
---reset 4 gain of Currency every 30 sec (150)
-- [ ] 
+--reset 4 gain of Currency every 30 sec (150) (mostly the op shit )
+- [ ] HyperDust Sans
 
 
 --True Reset Characters
@@ -96,11 +115,10 @@
 - [ ] Toriel
 
 --To add (to replace some of the dust bs)
-Undertone (could be cool to make him with note based attack ect)
-smash sans (with a smash like set )
+
 Color sans
-IceBound snas
-Undershuffle
+
+
 gt gaster 
 gt papyrus
 Nightmare(Mode) Sans (From Indie Cross)
@@ -109,7 +127,6 @@ vhs sans (0 idea what to do with him )
 space sans https://youtu.be/sgYJKa6bqmI?si=nu8d73xVHzUecFxC
 Axetale
 - [ ] RevertDust Sans : 
-- [ ] OuterFell!Sans :
 - [ ] SwapDust Papyrus
 - [ ] DustFell!Sans : 
 - [ ] OuterDust!Sans : 
@@ -118,8 +135,6 @@ Axetale
 - [ ] SMX last run :  / phase 2 :   / phase 3 : 
 - [ ] Underverse Ink : 
 - [ ] ErrorDust!Sans : 
-- [ ] Altertale Sans  :
-- [ ] SSC : 
 - [ ] outershift chara : 
 - [ ] storyfell chara : 
 - [ ] Gameboy snas : 
@@ -137,14 +152,7 @@ Axetale
 - [ ] smx :  / phase 2 :  / phase 3 :  / phase 4 :  / phase 5 :   / phase 6 
 - [ ] soultale sans : 
 - [ ] errorshift chara : 
-- [ ] error time trio : 
-- [ ] LittleSwap papyrus : 
-- [ ] Pacifist swap paps : 
-- [ ] papyrus : 
-- [ ] outer papyrus : 
-- [ ] Dancetale Papyrus 
-- [ ] fell papyrus : 
-- [ ] Horrorswap papyrus : 
+- [ ] error time trio :  
 - [ ] Duo Squabble
 - [ ] Inverted Fate Papyrus
 - [ ] swap papyrus :  / phase 2 :
@@ -164,19 +172,11 @@ Axetale
 - [ ] revenge :  / phase 2 : 
 - [ ] dustbelief papyrus : 
 - [ ] errorswap papyrus : 
-- [ ] Little Sans : free
-- [ ] swapswap : 
 - [ ] fellswap sans :  
 - [ ] swapfell sans : 
-- [ ] sanes : 
-- [ ] outerswap sans : 
-- [ ] DanceTale Sans
-- [ ] titr : 
 - [ ] crossbone: 
 - [ ] Fallen Star :
 - [ ] extreme fell : 
-- [ ] echo sans : 
-- [ ] flowerfell : 
 - [ ] SpongBobSwap : 
 - [ ] Undertoad Mario : 
 - [ ] Helltale sans :

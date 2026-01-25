@@ -6,7 +6,8 @@ Block : No
 Dodge : 6
 
 passive:
-
+	Defense ? : Attack Bypass Def and iframes
+	weak monster : only do 1 damage
 ### ***Attack :***
 1. [ ] Bonerush : 
        1: send a rush of bone
