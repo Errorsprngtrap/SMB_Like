@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "e873d00768630d71",
+  "active": "7c4d0c03d08ccf56",
   "lastOpenFiles": [
     "Character Set/Pacifist Sans.md",
     "Char V2 Test.md",

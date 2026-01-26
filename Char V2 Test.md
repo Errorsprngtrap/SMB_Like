@@ -56,13 +56,27 @@
 
 --Reset 1 gain of Currency every 30 sec (75) (more sanses)
 - [ ] Little Sans : free
+- [ ] Axetale Sans
 - [ ] Flowerfell :
 - [ ] outerswap sans : 
 - [ ] SwapSwap :
+- [ ] fellswap sans :  
+- [ ] swapfell sans : 
 - [ ] OuterFell :
 - [ ] sanes : 
+- [ ] Party Rock Sans
 - [ ] DanceTale Sans
+- [ ] crossbone: 
+- [ ] extreme fell :
 - [ ] echo sans : 
+- [ ] wiki sans : 
+- [ ] RevertDust Sans : 
+- [ ] Ocean sans :
+- [ ] Distrust :  / phase2 :  / phase 3 :  / phase 4 : 
+- [ ] Underworld Sans :
+- [ ] Paperjam : 
+- [ ] True Cross : 
+- [ ] True Fatal : 
 
 --Reset 2 gain of Currency every 30 sec (100) (paps and duo)
 - [ ] LittleSwap papyrus : 
@@ -72,19 +86,73 @@
 - [ ] Horrorswap papyrus : 
 - [ ] outer papyrus : 
 - [ ] fell papyrus : 
+- [ ] Duo Squabble
+- [ ] Inverted Fate Papyrus
+- [ ] swap papyrus :  / phase 2 :
+- [ ] OuterSwap Papyrus:
+- [ ] FellSwap (red) Papyrus :
+- [ ] bad time duo :  / phase 2 : 
+- [ ]  spycopath papyrus : 
+- [ ] dustswap papyrus (ut) : 
+- [ ] fell duo :  / phase 2 : 
+- [ ] ts papyrus :  / phase 2 :  
+- [ ] disbelief :  / phase 2 :  / phase 3 :  / phase 4 : 
+- [ ] gt papyrus : 
+- [ ] swapfell papyrus :  / phase 2 : 
+- [ ] fellswap Emerald :  / phase 2 : 
+- [ ] Fellswap Gold Papyrus :
+- [ ] SwapDust Papyrus :
+- [ ] afterswap Papyrus : 
+- [ ] revenge :  / phase 2 : 
+- [ ] dustbelief papyrus : 
+- [ ] KillerSwap papyrus (molotov mode) : 
+- [ ] errorswap papyrus : 
 
 --reset 3 gain of Currency every 30 sec (125) (chara and trio = some other shit)
 - [ ] titr : 
 - [ ] smash sans (with a smash like set )
 - [ ] Altertale Sans  :
 - [ ] Undertone (could be cool to make him with note based attack ect)
+- [ ] Fallen Star :
 - [ ] Undershuffle
 - [ ] SSC : 
-- [ ] IceBound snas
+- [ ] GZ Sans :
+- [ ] IceBound snas:
+- [ ] storyfell chara : 
+- [ ] outershift chara : 
+- [ ] btt : 50 000 / phase 2 : 
+- [ ] DustFell!Sans : 
+- [ ] OuterDust!Sans : 
+- [ ] fell trio : 
+- [ ] SpongeSwap Bob
+- [ ]  Undertoad Mario : 
+- [ ] Gameboy snas : 
+- [ ] henry stickmin : 
+- [ ] dust trio : 
+- [ ] Murder : 
+- [ ] hardmode sans (the goat) : 
+- [ ] insanity /2/3: 
+- [ ] errorshift chara : 
+- [ ] error time trio :  
+- [ ] BlueScreen : 
+- [ ] ErrorDust!Sans : 
 
 --reset 4 gain of Currency every 30 sec (150) (mostly the op shit )
+- [ ] LB :  / phase 2 :  / phase 3 : 
+- [ ] gt gaster 
+- [ ] space sans
+- [ ] smx :  / phase 2 :  / phase 3 :  / phase 4 :  / phase 5 :   / phase 6 
+- [ ] Dusttrust Sans : / phase 2 :  / phase 3 :  / phase 4 : 
 - [ ] HyperDust Sans
-
+- [ ] DustDust Sans : 
+- [ ] toxin :  / phase 2:  / phase 3 : 
+- [ ] Underverse Ink : 
+- [ ] Underverse Error
+- [ ] X Gaster : 
+- [ ] SMX last run :  / phase 2 :   / phase 3 : 
+- [ ] Color sans
+- [ ] PowerFull Error : 
+- [ ] Nightmare(Mode) Sans (From Indie Cross)
 
 --True Reset Characters
 - [ ] Powerful Cross Sans : 
@@ -116,79 +184,16 @@
 
 --To add (to replace some of the dust bs)
 
-Color sans
 
-
-gt gaster 
-gt papyrus
-Nightmare(Mode) Sans (From Indie Cross)
 sanston (0 idea what to do with him )
 vhs sans (0 idea what to do with him )
-space sans https://youtu.be/sgYJKa6bqmI?si=nu8d73xVHzUecFxC
-Axetale
-- [ ] RevertDust Sans : 
-- [ ] SwapDust Papyrus
-- [ ] DustFell!Sans : 
-- [ ] OuterDust!Sans : 
-- [ ] DustDust Sans : 
-- [ ] Dusttrust Sans : / phase 2 :  / phase 3 :  / phase 4 : 
-- [ ] SMX last run :  / phase 2 :   / phase 3 : 
-- [ ] Underverse Ink : 
-- [ ] ErrorDust!Sans : 
-- [ ] outershift chara : 
-- [ ] storyfell chara : 
-- [ ] Gameboy snas : 
-- [ ] LB : 10 000 / phase 2 :  / phase 3 : 
-- [ ] Ocean sans : 20 000
-- [ ] Distrust :  / phase2 :  / phase 3 :  / phase 4 : 
-- [ ] btt : 50 000 / phase 2 : 
-- [ ] fell trio : 
-- [ ] wiki sans : 
-- [ ] harmode sans (the goat) : 
-- [ ] dust trio : 
-- [ ] X Gaster : 
-- [ ] henery stickmin : 
-- [ ] toxin :  / phase 2:  / phase 3 : 
-- [ ] smx :  / phase 2 :  / phase 3 :  / phase 4 :  / phase 5 :   / phase 6 
-- [ ] soultale sans : 
-- [ ] errorshift chara : 
-- [ ] error time trio :  
-- [ ] Duo Squabble
-- [ ] Inverted Fate Papyrus
-- [ ] swap papyrus :  / phase 2 :
-- [ ] fellswap papyrus :  / phase 2 : 
-- [ ] outerswap papyrus : 
-- [ ] bad time duo :  / phase 2 : 
-- [ ] afterswap : 
-- [ ] disbelief :  / phase 2 :  / phase 3 :  / phase 4 :  
-- [ ] ts papyrus :  / phase 2 :  
-- [ ] fell duo :  / phase 2 : 
-- [ ] dustswap papyrus (ut) : 
-- [ ] spycopath papyrus : 
-- [ ] swapfell papyrus :  / phase 2 : 
-- [ ] Fellswap Gold Papyrus :
-- [ ] fellswap Emerald :  / phase 2 : 
-- [ ] KillerSwap papyrus (molotov mode) : 
-- [ ] revenge :  / phase 2 : 
-- [ ] dustbelief papyrus : 
-- [ ] errorswap papyrus : 
-- [ ] fellswap sans :  
-- [ ] swapfell sans : 
-- [ ] crossbone: 
-- [ ] Fallen Star :
-- [ ] extreme fell : 
-- [ ] SpongBobSwap : 
-- [ ] Undertoad Mario : 
-- [ ] Helltale sans :
-- [ ] insanity : 
-- [ ]  GZ Sans :
-- [ ] Murder : 
-- [ ] Paperjam : 
-- [ ] Underworld Sans :
-- [ ] True Cross : 
-- [ ] BlueScreen : 
-- [ ] True Fatal : 
-- [ ] PowerFull Error : 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 secret char :
 batman us papyrus with a lightsavber 
