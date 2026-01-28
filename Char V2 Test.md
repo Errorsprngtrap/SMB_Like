@@ -9,7 +9,7 @@
 - [ ] limbo : 2 500  [[LimboSans]]
 - [ ] very weak dust : 3 500 [[Very weak dust sans]]
 - [ ] Mafiatale sans : 5 500
-- [ ] Inverted Fate Sans : 8 500
+- [ ] Inverted Fate Sans : 8 500 [[InvertedFate Sans]]
 - [ ] Fell Sans : 10 000 / phase2 4000 [[Fell Sans]]
 - [ ] neutral : 12 500 / phase2 dt mode 4500 [[Neutral run]]
 - [ ] Outer : 15 000 [[Outer Sans]]
