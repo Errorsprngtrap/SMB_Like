@@ -18,4 +18,6 @@ passive :
 3. [ ] Bonezone 
 4. [ ] Matches : 
        can turn on fire anything flammable also hurt anyone that walk on it
-5. [ ] if anyone as idea im not against
+5. [ ] Dog Blaster :
+       mode 1 : a blaster that just launch foward 
+       mode 2 : a blaster that will target the cloest player 

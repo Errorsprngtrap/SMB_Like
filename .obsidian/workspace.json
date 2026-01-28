@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Char V2 Test.md",
+                "file": "Character Set/Pacifist Fell Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Char V2 Test"
+              "title": "Pacifist Fell Sans"
             }
           }
         ]
@@ -168,14 +168,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export as HTML": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "7c4d0c03d08ccf56",
+  "active": "e873d00768630d71",
   "lastOpenFiles": [
-    "Character Set/Pacifist Sans.md",
     "Char V2 Test.md",
+    "Character Set/Pacifist Sans.md",
     "to do.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
