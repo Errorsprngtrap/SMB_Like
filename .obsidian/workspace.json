@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Character Set/Negatale Sans.md",
+=======
+                "file": "Character Set/InvertedFate Sans.md",
+>>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Negatale Sans"
+=======
+              "title": "InvertedFate Sans"
+>>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
             }
           }
         ]
@@ -167,13 +175,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export as HTML": false
+      "publish:Publish changes...": false
     }
   },
   "active": "e873d00768630d71",
   "lastOpenFiles": [
     "Char V2 Test.md",
+<<<<<<< HEAD
+=======
+    "[InvertedFate Sans.md",
+    "Character Set/InvertedFate Sans.md",
+    "Character Set/InvertedFate sans.md",
+    "Character Set/Sans.md",
+    "Character Set/Pacifist Fell Sans.md",
+>>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
     "Character Set/Pacifist Sans.md",
     "to do.md",
     "Untitled.canvas",
@@ -183,10 +198,7 @@
     "Character Set/Negatale Sans.md",
     "log update.md",
     "Character Set/Swap Sans.md",
-    "Character Set/Sans.md",
-    "Character Set/Pacifist Fell Sans.md",
     "Character Set/Fell Sans.md",
-    "Character Set/InvertedFate Sans.md",
     "Character Set/LimboSans.md",
     "Character Set/Very weak dust sans.md",
     "Character Set/Outer Sans.md",
