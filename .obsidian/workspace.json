@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "2bcfea2c8b17b714",
+    "id": "2e70ca030fcf7b4b",
     "type": "split",
     "children": [
       {
-        "id": "3e4f102434845597",
+        "id": "1c4590284ec6a8e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e873d00768630d71",
+            "id": "d670552cbfe37217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Character Set/Negatale Sans.md",
-=======
                 "file": "Character Set/InvertedFate Sans.md",
->>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Negatale Sans"
-=======
               "title": "InvertedFate Sans"
->>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e3fe449f04bc21f6",
+    "id": "d6cab59f32042cf3",
     "type": "split",
     "children": [
       {
-        "id": "e138ec555892b3b3",
+        "id": "62b93a6481861dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "8a399b3132ed47d5",
+            "id": "38b7d465e9221804",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "7c4d0c03d08ccf56",
+            "id": "d7cb8e112eef0564",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "dcec7ab6e3394abf",
+            "id": "1223fcf5a8449970",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "eee7f6dfeebb0113",
+    "id": "b37fd1b80d82f1fb",
     "type": "split",
     "children": [
       {
-        "id": "75a1e09774677a95",
+        "id": "d0fdd5dbc8b123ae",
         "type": "tabs",
         "children": [
           {
-            "id": "95e38498c55266e8",
+            "id": "55711a3497d657c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sans.md",
+                "file": "Character Set/InvertedFate Sans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sans"
+              "title": "Backlinks for InvertedFate Sans"
             }
           },
           {
-            "id": "a300ca0e52029417",
+            "id": "3c0870f0eb12080d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sans.md",
+                "file": "Character Set/InvertedFate Sans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sans"
+              "title": "Outgoing links from InvertedFate Sans"
             }
           },
           {
-            "id": "69dc95a0c6ec9ea5",
+            "id": "e7833075c048f7b0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,18 +137,18 @@
             }
           },
           {
-            "id": "68d4a2ad1ef26ae0",
+            "id": "ba5e4d738fa71b71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sans.md",
+                "file": "Character Set/InvertedFate Sans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sans"
+              "title": "Outline of InvertedFate Sans"
             }
           }
         ]
@@ -174,42 +166,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "e873d00768630d71",
-  "lastOpenFiles": [
-    "Char V2 Test.md",
-<<<<<<< HEAD
-=======
-    "[InvertedFate Sans.md",
-    "Character Set/InvertedFate Sans.md",
-    "Character Set/InvertedFate sans.md",
-    "Character Set/Sans.md",
-    "Character Set/Pacifist Fell Sans.md",
->>>>>>> 170ff936ab18b1d3056d6ba3fa9dc51bedfe2642
-    "Character Set/Pacifist Sans.md",
-    "to do.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Char.md",
-    "Character Set/Horror sans.md",
-    "Character Set/Negatale Sans.md",
-    "log update.md",
-    "Character Set/Swap Sans.md",
-    "Character Set/Fell Sans.md",
-    "Character Set/LimboSans.md",
-    "Character Set/Very weak dust sans.md",
-    "Character Set/Outer Sans.md",
-    "Character Set/negative sans.md",
-    "Character Set/Neutral run.md",
-    "Character Set/OLD Fell Sans.md",
-    "Character Set/Sans OLD.md",
-    "SMBLike.html",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Character Set",
-    "Pasted image 20251103022848.png"
-  ]
+  "active": "d670552cbfe37217",
+  "lastOpenFiles": []
 }
