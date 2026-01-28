@@ -10,7 +10,7 @@ passive:
 
 ### ***Attack :***
 1. [x] Sad Blaster :
-       1: a blaster that have a beam that slow player and reduce there jump and defense (can be hold up to 2 second for slightly larger blaster and better effect) (higher sadness his the more the effect are powerful but the blaster beam last for a shorter time)
+       1: a blaster that have a beam that slow player and reduce there defense (can be hold up to 2 second for slightly larger blaster and better effect) (higher sadness his the more the effect are powerful but the blaster beam last for a shorter time)
        2 : the blaster will contain its beam as an energy ball before exploding (can be hold up to 4 sec for a bigger blaster and explosion)
 2. [x] Blaster Decision:
        this ability let you pre place up to 5 blaster as soon as you press for a long time the ability all the blaster spawn and fire (sadness make them short for less long and make them wait a bit before firering)
