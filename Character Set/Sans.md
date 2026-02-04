@@ -9,14 +9,14 @@ passive:
 	Defense ? : Attack Bypass Def and iframes
 	weak monster : only do 1 damage
 ### ***Attack :***
-1. [ ] Bonerush : 
+1. [x] Bonerush : 
        1: send a rush of bone
        2: send a rush of bone from you to where you click that come from the sky (can be charged)
-2. [ ] Blaster : 
+2. [x] Blaster : 
        can be hold for bigger size 
 3. [ ] 4 blast : 
        spawn 4 blaster in a x or + shape 
-4. [ ] BoneWall : 
+4. [x] BoneWall : 
        create a single wall that protect from other attack 
 5. [ ] Bonejump : 
        send a white then blue bone 
