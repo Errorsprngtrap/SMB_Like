@@ -181,20 +181,7 @@
 - [ ] jevil 
 - [ ] Flowey
 - [ ] Toriel
-
---To add (to replace some of the dust bs)
-
-
-sanston (0 idea what to do with him )
-vhs sans (0 idea what to do with him )
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+ 
 secret char :
 batman us papyrus with a lightsavber 
 grandpa semi
