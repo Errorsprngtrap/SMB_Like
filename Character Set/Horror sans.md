@@ -14,8 +14,8 @@ passive:
        2 : Slash (can be charged to go faster and do more damage)
 2. [x] Axe Slam :
        slam the ground with your axe and release bone 
-3. [x] Bonezone :
-       really nothing special
+3. [ ] BoneTrap:
+       Create a bone zone where only the middle is safe
 4. [x] Bonewave:
        create a long but not very large bonewave (can be hold to charge the length)
 5. [x] Dash : 
@@ -39,9 +39,14 @@ attack cause a form of small bleed
        2 : small slash (they are pretty spammable)
 2. [x] BoneZone
        classic zone
-3. [x] BoneWave:
-       work like before but its larger (can be charged too)
+3. [ ] Shotgun : He basically shoots so many small sharp bones really really really fastly to wherever he's facing
+       Like if you're far away you'll be fine but if you're in front of him you'll take a shitton of dmg
 4. [x] Falling Bone:
        a bone spawn around where you click and fall (can be used 15 time in a row before goign on cd)
-5. [x] Quick Dash :
-     a tp 
+5. [ ] Quick Dash :
+       a tp 
+6. [ ] Rush : 
+       Basically the 3 first time you use the move you mark 3 spots with a small bone The spots can't be TOO FAR AWAY from each other but still they can have a good distance between themOn the 4th use of the move horror sans RUSHES to the spots from closest to farthest
+       So basically Goes to first spot second spot and third spot and does dmg to everything on his way and leaves a trail behind
+7. [ ] Cuddles :
+        Horror sans goes between being normal and transparent constantly for 2 seconds like on off... and after the "blinking" is done He does a quick leap and slam the sans that got hit if they got hit and Either bite them or smash them with his axe This also heals him like %25 of his hp
