@@ -181,6 +181,8 @@
 - [ ] jevil 
 - [ ] Flowey
 - [ ] Toriel
+- [ ] error undyne 
+- [ ] error papyrus
  
 secret char :
 batman us papyrus with a lightsavber 
