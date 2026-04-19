@@ -14,7 +14,7 @@ passive :
 2. [x] Slow Blue : send a very very slow and long blue bone
 3. [x] ketchup regen 2 dodge or 20 hp
 4. [x] drop the ketchup (can be hold) : you drop ketchup around where you click as long as its in range and create an explosion of ketchup puddles
-5. [ ] Stop Sign (unlocked when all dodge are used ) :
+5. [x] Stop Sign (unlocked when all dodge are used ) :
        1. slam the floor : cannot be more clear
        2. Beyblade: sans spin on himself with the sign in hand 
        3. bone bomb : does a dusttrust like swing that send bone flying
